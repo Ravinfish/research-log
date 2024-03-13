@@ -12,3 +12,7 @@ End of day. Still working through the tutorial.
 ## 3.12.24
 
 Morning - opening SaaS tutorial to finish reading
+
+## 3.13.24
+
+Algorithms and Data Structures Tutorial - [https://www.youtube.com/watch?v=8hly31xKli0]
