@@ -16,3 +16,7 @@ Morning - opening SaaS tutorial to finish reading
 ## 3.13.24
 
 Algorithms and Data Structures Tutorial - [https://www.youtube.com/watch?v=8hly31xKli0]
+
+## 3.14.24
+
+React Native Tutorial - [https://www.youtube.com/watch?v=mJ3bGvy0WAY]
