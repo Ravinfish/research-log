@@ -28,3 +28,11 @@ Continue working on React Native Project
 ## 3.19.24
 
 Continue working on React Native Project
+
+## 3.20.24 
+
+Troubleshoot React Native project. I could not get it to launch mobile. 
+
+## 3.21.24
+
+Finish React Native project. Was able to get it to work on my phone!!!
